@@ -1,0 +1,31 @@
+{
+  "benthic": [
+    {"name": "Namdrik", "id": 9},
+    {"name": "Majuro","id": 5},
+    {"name": "Rongelap", "id": 6}
+  ],
+  "coral" : [
+    {"name": "Namdrik", "id": 9},
+    {"name": "Saipan", "id": 8},
+    {"name": "Rongelap", "id": 6},
+    {"name": "Kuap", "id": 15},
+    {"name": "1Babeldoab", "id": 24},
+    {"name": "1Rongelap", "id": 16},
+    {"name": "1Kuap", "id": 115},
+    {"name": "2Babeldoab", "id": 124},
+    {"name": "2Rongelap", "id": 26},
+    {"name": "2Kuap", "id": 215},
+    {"name": "3Babeldoab", "id": 224}
+  ],
+  "macroinvertebrates": [
+    {"name": "Rota", "id": 7},
+    {"name": "Saipan", "id": 8},
+    {"name": "Rongelap", "id": 6},
+    {"name": "Kuap", "id": 15}
+  ],
+  "fish": [
+    {"name": "Tinian", "id": 8},
+    {"name": "Rongelap", "id": 6},
+    {"name": "Kuap", "id": 15}
+  ]
+}

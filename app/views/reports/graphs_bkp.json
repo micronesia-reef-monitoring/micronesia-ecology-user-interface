@@ -1,0 +1,632 @@
+[
+  {
+    "site_id": "PNI-1",
+    "category_name": "BRANCHING CORALLINE ALGAE",
+    "category_code": "BCA",
+    "avg_value": 1.2,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-1",
+    "category_name": "CORAL",
+    "category_code": "C",
+    "avg_value": 44.24,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-1",
+    "category_name": "CRUSTOSE CORALLINE ALGAE",
+    "category_code": "CCA",
+    "avg_value": 17.36,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-1",
+    "category_name": "FLESHY CORALLINE ALGAE",
+    "category_code": "FCA",
+    "avg_value": 5.52,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-1",
+    "category_name": "OTHER INVERTEBRATES",
+    "category_code": "OI",
+    "avg_value": 2.0,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-1",
+    "category_name": "SAND",
+    "category_code": "SD",
+    "avg_value": 11.12,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-1",
+    "category_name": "TURF ALGAE",
+    "category_code": "T",
+    "avg_value": 18.96,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-10",
+    "category_name": "BRANCHING CORALLINE ALGAE",
+    "category_code": "BCA",
+    "avg_value": 1.1726998491704383,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-10",
+    "category_name": "CORAL",
+    "category_code": "C",
+    "avg_value": 49.29411764705882,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-10",
+    "category_name": "CRUSTOSE CORALLINE ALGAE",
+    "category_code": "CCA",
+    "avg_value": 10.43589743589742,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-10",
+    "category_name": "FLESHY CORALLINE ALGAE",
+    "category_code": "FCA",
+    "avg_value": 2.413273001508296,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-10",
+    "category_name": "OTHER INVERTEBRATES",
+    "category_code": "OI",
+    "avg_value": 0.7824283559577677,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-10",
+    "category_name": "SAND",
+    "category_code": "SD",
+    "avg_value": 17.53846153846152,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-10",
+    "category_name": "TURF ALGAE",
+    "category_code": "T",
+    "avg_value": 18.75414781297134,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-11",
+    "category_name": "BRANCHING CORALLINE ALGAE",
+    "category_code": "BCA",
+    "avg_value": 1.4379084967320253,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-11",
+    "category_name": "CORAL",
+    "category_code": "C",
+    "avg_value": 33.20156862745098,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-11",
+    "category_name": "CRUSTOSE CORALLINE ALGAE",
+    "category_code": "CCA",
+    "avg_value": 21.88392156862746,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-11",
+    "category_name": "FLESHY CORALLINE ALGAE",
+    "category_code": "FCA",
+    "avg_value": 1.960784313725489,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-11",
+    "category_name": "OTHER INVERTEBRATES",
+    "category_code": "OI",
+    "avg_value": 0.65359477124183,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-11",
+    "category_name": "SAND",
+    "category_code": "SD",
+    "avg_value": 6.539607843137256,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-11",
+    "category_name": "TURF ALGAE",
+    "category_code": "T",
+    "avg_value": 35.5513725490196,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-12",
+    "category_name": "BRANCHING CORALLINE ALGAE",
+    "category_code": "BCA",
+    "avg_value": 0.6188218561099906,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-12",
+    "category_name": "CORAL",
+    "category_code": "C",
+    "avg_value": 53.0002392308646,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-12",
+    "category_name": "CRUSTOSE CORALLINE ALGAE",
+    "category_code": "CCA",
+    "avg_value": 12.920222228579933,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-12",
+    "category_name": "FLESHY CORALLINE ALGAE",
+    "category_code": "FCA",
+    "avg_value": 2.26272834899369,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-12",
+    "category_name": "MACROALGAE",
+    "category_code": "MA",
+    "avg_value": 1.3397034000482264,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-12",
+    "category_name": "OTHER INVERTEBRATES",
+    "category_code": "OI",
+    "avg_value": 0.3624115996997357,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-12",
+    "category_name": "SAND",
+    "category_code": "SD",
+    "avg_value": 25.07314524555902,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-12",
+    "category_name": "TURF ALGAE",
+    "category_code": "T",
+    "avg_value": 20.12704929981376,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-13",
+    "category_name": "BRANCHING CORALLINE ALGAE",
+    "category_code": "BCA",
+    "avg_value": 0.8481649069884354,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-13",
+    "category_name": "CORAL",
+    "category_code": "C",
+    "avg_value": 11.551198257080602,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-13",
+    "category_name": "CRUSTOSE CORALLINE ALGAE",
+    "category_code": "CCA",
+    "avg_value": 39.83727166080106,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-13",
+    "category_name": "FLESHY CORALLINE ALGAE",
+    "category_code": "FCA",
+    "avg_value": 1.3142282554047255,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-13",
+    "category_name": "MACROALGAE",
+    "category_code": "MA",
+    "avg_value": 0.392156862745098,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-13",
+    "category_name": "OTHER INVERTEBRATES",
+    "category_code": "OI",
+    "avg_value": 2.4814814814814823,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-13",
+    "category_name": "SAND",
+    "category_code": "SD",
+    "avg_value": 5.926763867940328,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-13",
+    "category_name": "TURF ALGAE",
+    "category_code": "T",
+    "avg_value": 37.96246019775432,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-14",
+    "category_name": "BRANCHING CORALLINE ALGAE",
+    "category_code": "BCA",
+    "avg_value": 0.8290333677330574,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-14",
+    "category_name": "CORAL",
+    "category_code": "C",
+    "avg_value": 50.5929189489561,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-14",
+    "category_name": "CRUSTOSE CORALLINE ALGAE",
+    "category_code": "CCA",
+    "avg_value": 9.803604032706199,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-14",
+    "category_name": "FLESHY CORALLINE ALGAE",
+    "category_code": "FCA",
+    "avg_value": 0.5844645550527905,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-14",
+    "category_name": "MACROALGAE",
+    "category_code": "MA",
+    "avg_value": 0.392156862745098,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-14",
+    "category_name": "OTHER INVERTEBRATES",
+    "category_code": "OI",
+    "avg_value": 1.176470588235293,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-14",
+    "category_name": "SAND",
+    "category_code": "SD",
+    "avg_value": 14.99936492815748,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-14",
+    "category_name": "TURF ALGAE",
+    "category_code": "T",
+    "avg_value": 23.3238866396761,
+    "reef_type": "Patch\/back"
+  },
+  {
+    "site_id": "PNI-16",
+    "category_name": "BRANCHING CORALLINE ALGAE",
+    "category_code": "BCA",
+    "avg_value": 4.705882352941176,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-16",
+    "category_name": "CORAL",
+    "category_code": "C",
+    "avg_value": 14.90196078431371,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-16",
+    "category_name": "CRUSTOSE CORALLINE ALGAE",
+    "category_code": "CCA",
+    "avg_value": 20.3921568627451,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-16",
+    "category_name": "FLESHY CORALLINE ALGAE",
+    "category_code": "FCA",
+    "avg_value": 7.686274509803914,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-16",
+    "category_name": "MACROALGAE",
+    "category_code": "MA",
+    "avg_value": 17.09803921568626,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-16",
+    "category_name": "OTHER INVERTEBRATES",
+    "category_code": "OI",
+    "avg_value": 1.5686274509803924,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-16",
+    "category_name": "SAND",
+    "category_code": "SD",
+    "avg_value": 4.627450980392154,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-16",
+    "category_name": "TURF ALGAE",
+    "category_code": "T",
+    "avg_value": 29.01960784313726,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-17",
+    "category_name": "CORAL",
+    "category_code": "C",
+    "avg_value": 27.78733031674208,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-17",
+    "category_name": "CRUSTOSE CORALLINE ALGAE",
+    "category_code": "CCA",
+    "avg_value": 2.417797888386122,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-17",
+    "category_name": "FLESHY CORALLINE ALGAE",
+    "category_code": "FCA",
+    "avg_value": 0.784313725490196,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-17",
+    "category_name": "OTHER INVERTEBRATES",
+    "category_code": "OI",
+    "avg_value": 0.576923076923077,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-17",
+    "category_name": "SAND",
+    "category_code": "SD",
+    "avg_value": 58.65460030165912,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-17",
+    "category_name": "TURF ALGAE",
+    "category_code": "T",
+    "avg_value": 10.752639517345395,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-3",
+    "category_name": "BRANCHING CORALLINE ALGAE",
+    "category_code": "BCA",
+    "avg_value": 0.9333333333333333,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-3",
+    "category_name": "CORAL",
+    "category_code": "C",
+    "avg_value": 39.28,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-3",
+    "category_name": "CRUSTOSE CORALLINE ALGAE",
+    "category_code": "CCA",
+    "avg_value": 32.32,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-3",
+    "category_name": "FLESHY CORALLINE ALGAE",
+    "category_code": "FCA",
+    "avg_value": 14.88,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-3",
+    "category_name": "MACROALGAE",
+    "category_code": "MA",
+    "avg_value": 1.2,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-3",
+    "category_name": "OTHER INVERTEBRATES",
+    "category_code": "OI",
+    "avg_value": 0.8,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-3",
+    "category_name": "SAND",
+    "category_code": "SD",
+    "avg_value": 3.52,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-3",
+    "category_name": "TURF ALGAE",
+    "category_code": "T",
+    "avg_value": 8.24,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-5",
+    "category_name": "BRANCHING CORALLINE ALGAE",
+    "category_code": "BCA",
+    "avg_value": 3.36,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-5",
+    "category_name": "CORAL",
+    "category_code": "C",
+    "avg_value": 12.8,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-5",
+    "category_name": "CRUSTOSE CORALLINE ALGAE",
+    "category_code": "CCA",
+    "avg_value": 43.92,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-5",
+    "category_name": "FLESHY CORALLINE ALGAE",
+    "category_code": "FCA",
+    "avg_value": 32.8,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-5",
+    "category_name": "MACROALGAE",
+    "category_code": "MA",
+    "avg_value": 0.6,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-5",
+    "category_name": "OTHER INVERTEBRATES",
+    "category_code": "OI",
+    "avg_value": 5.04,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-5",
+    "category_name": "TURF ALGAE",
+    "category_code": "T",
+    "avg_value": 1.6,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-6",
+    "category_name": "BRANCHING CORALLINE ALGAE",
+    "category_code": "BCA",
+    "avg_value": 0.9,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-6",
+    "category_name": "CORAL",
+    "category_code": "C",
+    "avg_value": 21.76,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-6",
+    "category_name": "CRUSTOSE CORALLINE ALGAE",
+    "category_code": "CCA",
+    "avg_value": 30.64,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-6",
+    "category_name": "FLESHY CORALLINE ALGAE",
+    "category_code": "FCA",
+    "avg_value": 30.56,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-6",
+    "category_name": "MACROALGAE",
+    "category_code": "MA",
+    "avg_value": 6.56,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-6",
+    "category_name": "OTHER INVERTEBRATES",
+    "category_code": "OI",
+    "avg_value": 2.08,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-6",
+    "category_name": "SAND",
+    "category_code": "SD",
+    "avg_value": 0.6666666666666666,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-6",
+    "category_name": "TURF ALGAE",
+    "category_code": "T",
+    "avg_value": 7.28,
+    "reef_type": "Outer"
+  },
+  {
+    "site_id": "PNI-9",
+    "category_name": "BRANCHING CORALLINE ALGAE",
+    "category_code": "BCA",
+    "avg_value": 1.801797364061515,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-9",
+    "category_name": "CORAL",
+    "category_code": "C",
+    "avg_value": 41.011594415368,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-9",
+    "category_name": "CRUSTOSE CORALLINE ALGAE",
+    "category_code": "CCA",
+    "avg_value": 15.844905758113288,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-9",
+    "category_name": "FLESHY CORALLINE ALGAE",
+    "category_code": "FCA",
+    "avg_value": 1.1256639935885229,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-9",
+    "category_name": "MACROALGAE",
+    "category_code": "MA",
+    "avg_value": 1.86849628359062,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-9",
+    "category_name": "OTHER INVERTEBRATES",
+    "category_code": "OI",
+    "avg_value": 0.373864430468204,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-9",
+    "category_name": "SAND",
+    "category_code": "SD",
+    "avg_value": 11.24354038693661,
+    "reef_type": "Inner"
+  },
+  {
+    "site_id": "PNI-9",
+    "category_name": "TURF ALGAE",
+    "category_code": "T",
+    "avg_value": 27.7018545395904,
+    "reef_type": "Inner"
+  }
+]
